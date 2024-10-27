@@ -11,9 +11,6 @@ Features:
   Interaction:
     Dynamic Content Handling: Using tools like Selenium to interact with JavaScript-heavy websites.
     User Queries: Responding to user inputs to scrape specific data or perform predefined tasks.
-  Data Storage:
-    Databases: Storing extracted data in databases like MySQL, PostgreSQL, or NoSQL options.
-    Files: Saving data in CSV, JSON, or Excel formats for easy access and analysis.
     
 Applications:
   Market Research: Gathering product prices, reviews, and ratings from e-commerce sites.
